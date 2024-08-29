@@ -12,7 +12,7 @@ Technologies Used
   Language: Java
   UI Framework: Swing
   Database: MS Access (Connected via UCanAccess)
-
+  
 Installation
   Clone the repository.
   Set up MS Access database and configure the connection in the project.
