@@ -1,4 +1,5 @@
 Hotel Management System
+
 This project is a simple hotel management system developed in Java using Swing. The application provides essential features for managing a hotel, including check-in, check-out, room management, and bill printing.
 
 Features
