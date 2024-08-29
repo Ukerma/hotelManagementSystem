@@ -9,12 +9,18 @@ Features
   4. Print Bill: Generate and print bills for guests.
 
 Technologies Used
+
   Language: Java
+  
   UI Framework: Swing
+  
   Database: MS Access (Connected via UCanAccess)
   
 Installation
+
   Clone the repository.
+  
   Set up MS Access database and configure the connection in the project.
+  
   Run the project through NetBeans or any other Java IDE.
   
