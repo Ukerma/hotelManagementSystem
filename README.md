@@ -7,10 +7,12 @@ Features
   2. Check-In/Check-Out: Manage guest check-ins and check-outs efficiently.
   3. Room Management: View and manage room availability and details.
   4. Print Bill: Generate and print bills for guests.
+
 Technologies Used
   Language: Java
   UI Framework: Swing
   Database: MS Access (Connected via UCanAccess)
+
 Installation
   Clone the repository.
   Set up MS Access database and configure the connection in the project.
