@@ -10,17 +10,17 @@ Features
 
 Technologies Used
 
-  Language: Java
+  -Language: Java
   
-  UI Framework: Swing
+  -UI Framework: Swing
   
-  Database: MS Access (Connected via UCanAccess)
+  -Database: MS Access (Connected via UCanAccess)
   
 Installation
 
-  Clone the repository.
+  -Clone the repository.
   
-  Set up MS Access database and configure the connection in the project.
+  -Set up MS Access database and configure the connection in the project.
   
-  Run the project through NetBeans or any other Java IDE.
+  -Run the project through NetBeans or any other Java IDE.
   
