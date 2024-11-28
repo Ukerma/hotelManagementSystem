@@ -1,26 +1,42 @@
-Hotel Management System
+<h1>🏨 Hotel Management System</h1>
+<p>
+   This project is a simple <strong>Hotel Management System</strong> developed in Java using the Swing framework. It provides essential features to manage hotel operations efficiently, including check-in, check-out, room management, and bill printing.
+</p>
 
-This project is a simple hotel management system developed in Java using Swing. The application provides essential features for managing a hotel, including check-in, check-out, room management, and bill printing.
+<h2>🛠️ Features</h2>
+<ul>
+   <li>✅ <strong>Login Screen:</strong> Secure login functionality for hotel staff.</li>
+   <li>✅ <strong>Check-In/Check-Out:</strong> Manage guest check-ins and check-outs efficiently.</li>
+   <li>✅ <strong>Room Management:</strong> View and manage room availability and details.</li>
+   <li>✅ <strong>Print Bill:</strong> Generate and print bills for guests.</li>
+</ul>
 
-Features
-  1. Login Screen: Secure login for hotel staff.
-  2. Check-In/Check-Out: Manage guest check-ins and check-outs efficiently.
-  3. Room Management: View and manage room availability and details.
-  4. Print Bill: Generate and print bills for guests.
+<h2>⚙️ Technologies Used</h2>
+<ul>
+   <li>🔹 <strong>Language:</strong> Java</li>
+   <li>🔹 <strong>UI Framework:</strong> Swing</li>
+   <li>🔹 <strong>Database:</strong> MS Access (Connected via UCanAccess)</li>
+</ul>
 
-Technologies Used
+<h2>🚀 Installation</h2>
+<ol>
+   <li>🔸 Clone the repository to your local machine.</li>
+   <li>🔸 Set up the MS Access database and configure the connection in the project using UCanAccess.</li>
+   <li>🔸 Run the project using NetBeans or any other Java IDE.</li>
+</ol>
 
-  -Language: Java
-  
-  -UI Framework: Swing
-  
-  -Database: MS Access (Connected via UCanAccess)
-  
-Installation
+<h2>💡 Example Use Case</h2>
+<p>
+   Hotel staff can use the system to:
+</p>
+<ul>
+   <li>🔑 Log in securely using the login screen.</li>
+   <li>🛏️ Check in and check out guests efficiently.</li>
+   <li>🏠 Manage room availability and view room details.</li>
+   <li>🧾 Generate and print bills for guests after their stay.</li>
+</ul>
 
-  -Clone the repository.
-  
-  -Set up MS Access database and configure the connection in the project.
-  
-  -Run the project through NetBeans or any other Java IDE.
-  
+<h2>👨‍💻 Author</h2>
+<p>
+   This project was developed by <strong>Umut Kerim Acar (ukerma)</strong>. 
+</p>
